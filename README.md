@@ -36,7 +36,7 @@ cars = pd.DataFrame([
 themes = pd.DataFrame([
     ["urban life", "berline"],
     ["joyride", "berline"],
-    ["country", 4x4"]
+    ["country", "4x4"]
 ], columns=["theme", "type"])
 
 # STEP 2, create the circuit
